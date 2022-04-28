@@ -1,32 +1,50 @@
-# Rickroll Links
+# Created Rickroll Links
 The Best!
 
-## Dedicated Webpage/websites
-- [discord.yonle.repl.co](https://discord.yonle.repl.co) - A page that lookin like Discord, but SUS.
-- [kavin.rocks](http://kavin.rocks/) - idk if this will stay forever but it looks like a personal website. 
-- [free-discord-nitro.dheeraj2008.repl.co](https://free-discord-nitro.dheeraj2008.repl.co) - Rickrolling by telling you have been gifted Discord Nitro.
-- [https://my-website.dheeraj2008.repl.co](https://my-website.dheeraj2008.repl.co) - Tells We use cookies to improve your experience. If you're ok with that please click accept. either u decline/accept u get rickrolled.
+## Dedicated Sites/Pages
+- [discord.yonle.repl.co](https://discord.yonle.repl.co) - A SUS Discord.
+- [https://my-website.dheeraj2008.repl.co](https://my-website.dheeraj2008.repl.co) - A normal rickroll.
+
 ## Raw Video
-- [fwesh.yonle.repl.co/*](https://fwesh.yonle.repl.co) - It gives Rickroll raw video than redirect you to Youtube Video. Also works on discord or anywhere.
+- [fwesh.yonle.repl.co](https://fwesh.yonle.repl.co) - It gives a raw video than the Youtube Video.
 
-## Discord rickroll
-- [https://www.youtube.com/watch?v=tzYPr9w22VU](https://www.youtube.com/watch?v=tzYPr9w22VU) - spongebob song but rickroll
-- [https://www.youtube.com/watch?v=xfr64zoBTAQ](https://www.youtube.com/watch?v=xfr64zoBTAQ) - Breaking news but rickroll
-- [https://www.youtube.com/watch?v=oJl25bABYac](https://www.youtube.com/watch?v=oJl25bABYac) - Tesla's free energy secrets revealed! but rickroll
-- [https://www.youtube.com/watch?v=E458nb_pPmk](https://www.youtube.com/watch?v=E458nb_pPmk) - It’s Crazy How Sound Works but rickroll
-- [https://www.youtube.com/watch?v=LjQZaD9EEJ0](https://www.youtube.com/watch?v=LjQZaD9EEJ0) - Shrek 5 TRAILER but rickroll
-- [https://www.youtube.com/watch?v=s0akG-V_Y30](https://www.youtube.com/watch?v=s0akG-V_Y30) - The truth the government doesn't want you to know about shelter in place but rickroll
-- [https://www.youtube.com/watch?v=ikFZLI4HLpQ](https://www.youtube.com/watch?v=ikFZLI4HLpQ) - Building Demolition *gone wrong* but rickroll
+## Hidden on YouTube
+- [youtu.be/tzYPr9w22VU](https://www.youtube.com/watch?v=tzYPr9w22VU) - Spongebob Song
+- [youtu.be/E458nb_pPmk](https://www.youtube.com/watch?v=E458nb_pPmk) - It’s Crazy How Sound Works (shortened)
+- [youtu.be/LjQZaD9EEJ0](https://www.youtube.com/watch?v=LjQZaD9EEJ0) - Shrek 5 TRAILER 2022 *NEW* (shortened)
+- [youtu.be/s0akG-V_Y30](https://www.youtube.com/watch?v=s0akG-V_Y30) - The truth the government doesn't want you to know about shelter in place (shortened, starts in middle)
+- [youtu.be/ikFZLI4HLpQ](https://www.youtube.com/watch?v=ikFZLI4HLpQ) - Building Demolition *gone wrong* (shortened)
+## Modified Rickrolls
+- [youtu.be/oJl25bABYac](https://www.youtube.com/watch?v=oJl25bABYac) - Tesla's Free Energy Secrets Revealed!<br>
+<br>
+<br>
 
-## Make Your Own
-### https://secretrickroll.com
+# Make Your Own
+## [secretrickroll.com](https://secretrickroll.com)
 Links off site:<br>
-- https://tomorrowtides.com
-- https://www.thisworldthesedays.com
+- [tomorrowtides.com](https://tomorrowtides.com)
+- [thisworldthesedays.com](https://www.thisworldthesedays.com)
 - THESE ARE ALWAYS CHANGING!
-### URL Shorteners
-- https://bitly.com
-- https://rebrandly.com
-- https://is.gd
-- https://tinyurl.com
-- https://rb.gy
+## URL Shorteners
+You can use these to shorten any of these URLs into your own link name!
+- [bitly.com](https://bitly.com)
+- [rebrandly.com](https://rebrandly.com)
+- [is.gd](https://is.gd)
+- [tinyurl.com](https://tinyurl.com)
+- [rb.gy](https://rb.gy)<br>
+<br>
+<br>
+
+# Trick Someone With Your Rickroll
+This is really just a measure of how clever they are.
+## Destector Bots
+Rickroll detetors that aren't scams are out there. I use this one: [rickrolldetectorbot.herokuapp.com](https://rickrolldetectorbot.herokuapp.com/)<br>
+There is also a Discord one. I haven't yet tested it, however: [discord.bots.gg/bots/735590162938986506](https://discord.bots.gg/bots/735590162938986506)<br>
+There are also Chrome Extensions.
+Avoiding the official music videos or related is a good idea to trick these. One of my Hidden on YouTube section might work.
+## Link Shorteners
+LINK SHORTENERS ARE A STUPID PLAN IF YOU ARE GOING FOR SOMEONE SMART.<br>
+Both is.gd (adding a dash to the end) and Bitly (adding a plus) will show you what the link goes to.
+## secretrickroll.com
+I don't really have anything to say. Really nice the way you can customize it.<br>
+Sometimes, on managed devices (work/school), this site doesn't work.

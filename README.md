@@ -1,4 +1,4 @@
-# Created Rickroll Links
+# Rickroll Links
 The Best!
 
 ## Dedicated Sites/Pages

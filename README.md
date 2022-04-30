@@ -1,5 +1,8 @@
 # Rickroll Links
-The Best!
+[Report an issue](https://github.com/TheVillainCoders/rickroll/issues)<br>
+[Contact me](https://github.com/orgs/TheVillainCoders/discussions)<br>
+<br>
+<br>
 
 ## Dedicated Sites/Pages
 - [discord.yonle.repl.co](https://discord.yonle.repl.co) - A SUS Discord.
@@ -47,4 +50,4 @@ LINK SHORTENERS ARE A STUPID PLAN IF YOU ARE GOING FOR SOMEONE SMART.<br>
 Both is.gd (adding a dash to the end) and Bitly (adding a plus) will show you what the link goes to.
 ## secretrickroll.com
 I don't really have anything to say. Really nice the way you can customize it.<br>
-Sometimes, on managed devices (work/school), this site doesn't work.
+On managed devices (work/school), this site may not work.

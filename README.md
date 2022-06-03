@@ -11,14 +11,22 @@
 ## Raw Video
 - [fwesh.yonle.repl.co](https://fwesh.yonle.repl.co) - It gives a raw video than the Youtube Video.
 
+## Hidden on Random Sites:
+- [rr.noordstar.me/instagram-got-banned-in-all-the-countries-cbc9b4bc](https://rr.noordstar.me/instagram-got-banned-in-all-the-countries-cbc9b4bc) - Essentially, the URL makes it look like an interesting article.
+- [stelloio.herokuapp.com](https://stelloio.herokuapp.com/*) - Redirects to video
+
+## Discord Nitro
+- [news.rr.nihalnavath.com/posts/Nitro-b098204c](https://news.rr.nihalnavath.com/posts/Nitro-b098204c) - Nitro, expires in 48 hours.
+- [l.discord.ski/yWIf5EPzBZmHLa8B](https://l.discord.ski/yWIf5EPzBZmHLa8B) - Offers Discord Nitro
+
 ## Hidden on YouTube
-- [youtu.be/tzYPr9w22VU](https://www.youtube.com/watch?v=tzYPr9w22VU) - Spongebob Song
 - [youtu.be/E458nb_pPmk](https://www.youtube.com/watch?v=E458nb_pPmk) - It’s Crazy How Sound Works (shortened)
 - [youtu.be/LjQZaD9EEJ0](https://www.youtube.com/watch?v=LjQZaD9EEJ0) - Shrek 5 TRAILER 2022 *NEW* (shortened)
 - [youtu.be/s0akG-V_Y30](https://www.youtube.com/watch?v=s0akG-V_Y30) - The truth the government doesn't want you to know about shelter in place (shortened, starts in middle)
 - [youtu.be/ikFZLI4HLpQ](https://www.youtube.com/watch?v=ikFZLI4HLpQ) - Building Demolition *gone wrong* (shortened)
 ## Modified Rickrolls
 - [youtu.be/oJl25bABYac](https://www.youtube.com/watch?v=oJl25bABYac) - Tesla's Free Energy Secrets Revealed!<br>
+- [youtu.be/tzYPr9w22VU](https://www.youtube.com/watch?v=tzYPr9w22VU) - Best Spongebob Song
 <br>
 <br>
 
@@ -28,6 +36,8 @@ Links off site:<br>
 - [tomorrowtides.com](https://tomorrowtides.com)
 - [thisworldthesedays.com](https://www.thisworldthesedays.com)
 - THESE ARE ALWAYS CHANGING!
+## [news.rr.nihalnavath.com/](https://news.rr.nihalnavath.com/)
+I prefer this one less, due to the domain. It just creates a slashtag off the creation domain.
 ## URL Shorteners
 You can use these to shorten any of these URLs into your own link name!
 - [bitly.com](https://bitly.com)

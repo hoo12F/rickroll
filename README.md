@@ -1,6 +1,6 @@
 # Rickroll Links
-[Report an issue](https://github.com/VillainsRule2000/rickroll/issues)<br>
-[Contact me](https://github.com/orgs/VillainsRule2000/discussions)<br>
+[Report an issue](https://github.com/VillainsRule4000/rickroll/issues)<br>
+[Contact me](https://github.com/orgs/VillainsRule4000/discussions)<br>
 <br>
 <br>
 

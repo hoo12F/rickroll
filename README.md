@@ -1,6 +1,6 @@
 # Rickroll Links
 [Report an issue](https://github.com/VillainsRule4000/rickroll/issues)<br>
-[Contact me](https://github.com/orgs/VillainsRule4000/discussions)<br>
+[Contact me](https://github.com/VillainsRule4000/VillainsRule4000/discussions)<br>
 <br>
 <br>
 
@@ -24,9 +24,16 @@
 - [youtu.be/LjQZaD9EEJ0](https://www.youtube.com/watch?v=LjQZaD9EEJ0) - Shrek 5 TRAILER 2022 *NEW* (shortened)
 - [youtu.be/s0akG-V_Y30](https://www.youtube.com/watch?v=s0akG-V_Y30) - The truth the government doesn't want you to know about shelter in place (shortened, starts in middle)
 - [youtu.be/ikFZLI4HLpQ](https://www.youtube.com/watch?v=ikFZLI4HLpQ) - Building Demolition *gone wrong* (shortened)
+- [youtu.be/Uj1ykZWtPYI](https://www.youtube.com/watch?v=Uj1ykZWtPYI) - R2D2's secret message
+- [youtu.be/dPmZqsQNzGA](https://www.youtube.com/watch?v=dPmZqsQNzGA) - Coldplay - True Love [new album Ghost Stories song]
+- [youtu.be/cqF6M25kqq4](https://www.youtube.com/watch?v=cqF6M25kqq4) - Patrick's Secret Box - The Truth
+- [youtu.be/EE-xtCF3T94](https://www.youtube.com/watch?v=EE-xtCF3T94) - Who's That Pokemon?
+- [youtu.be/j5a0jTc9S10](https://www.youtube.com/watch?v=j5a0jTc9S10) - Cute Little Puppy Doing Cute things
+- [youtu.be/-51AfyMqnpI](https://www.youtube.com/watch?v=-51AfyMqnpI) - cute dog :D
 ## Modified Rickrolls
 - [youtu.be/oJl25bABYac](https://www.youtube.com/watch?v=oJl25bABYac) - Tesla's Free Energy Secrets Revealed!<br>
 - [youtu.be/tzYPr9w22VU](https://www.youtube.com/watch?v=tzYPr9w22VU) - Best Spongebob Song
+- [youtu.be/hNfDNORPU4Y](https://www.youtube.com/watch?v=hNfDNORPU4Y) - Borkrica [Toto]
 <br>
 <br>
 

@@ -14,6 +14,7 @@
 ## Hidden on Random Sites:
 - [rr.noordstar.me/instagram-got-banned-in-all-the-countries-cbc9b4bc](https://rr.noordstar.me/instagram-got-banned-in-all-the-countries-cbc9b4bc) - Essentially, the URL makes it look like an interesting article.
 - [stelloio.herokuapp.com](https://stelloio.herokuapp.com/*) - Redirects to video
+- [so-much-pain.glitch.me/do-a-barrel-roll.html](https://so-much-pain.glitch.me/do-a-barrel-roll.html) - Does a barrel roll a few times, and then directs to the official video.
 
 ## Discord Nitro
 - [news.rr.nihalnavath.com/posts/Nitro-b098204c](https://news.rr.nihalnavath.com/posts/Nitro-b098204c) - Nitro, expires in 48 hours.
@@ -51,7 +52,8 @@ You can use these to shorten any of these URLs into your own link name!
 - [rebrandly.com](https://rebrandly.com)
 - [is.gd](https://is.gd)
 - [tinyurl.com](https://tinyurl.com)
-- [rb.gy](https://rb.gy)<br>
+- [rb.gy](https://rb.gy)
+- [bit.do](https://bit.do/)<br>
 <br>
 <br>
 

@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://c.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif" alt="Rickroll GIF" width="300" height="300"></img>
+  <img src="https://c.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif" alt="Rickroll GIF" width="300" height="300">
   <h1>Rickroll Links</h1>
-  <h3><a href=https://VillainsRule4000.github.io>About VillainsRule</a><br><a href=https://github.com/VillainsRule4000/rickroll/issues>Report an Issue!</a></h3>
+  <h3><a href="https://VillainsRule4000.github.io">About VillainsRule</a><br><a href="https://github.com/VillainsRule4000/rickroll/issues">Report an Issue!</a></h3>
   <br>
   <br>
 </div>

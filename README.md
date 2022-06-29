@@ -43,6 +43,7 @@
 Links off site:<br>
 - [tomorrowtides.com](https://tomorrowtides.com)
 - [thisworldthesedays.com](https://www.thisworldthesedays.com)
+- [theraleighregister.com](https://www.theraleighregister.com)
 - THESE ARE ALWAYS CHANGING!
 ## [news.rr.nihalnavath.com/](https://news.rr.nihalnavath.com/)
 I prefer this one less, due to the domain. It just creates a slashtag off the creation domain.

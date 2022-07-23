@@ -48,6 +48,7 @@ Links off site:<br>
 - [theraleighregister.com](https://www.theraleighregister.com)
 - THESE ARE ALWAYS CHANGING!
 ## [news.rr.nihalnavath.com/](https://news.rr.nihalnavath.com/)
+## [https://blogs.mtdv.me/](https://blogs.mtdv.me/) or [https://r.mtdv.me/](https://r.mtdv.me/)
 I prefer this one less, due to the domain. It just creates a slashtag off the creation domain.
 ## URL Shorteners
 You can use these to shorten any of these URLs into your own link name!
